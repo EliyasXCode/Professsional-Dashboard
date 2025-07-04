@@ -1,0 +1,13 @@
+{
+  "name": "personal-dashboard",
+  "version": "1.0.0",
+  "description": "A beautiful personal dashboard with todo, notes, links, and habits tracking",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": ["dashboard", "productivity", "vanilla-js"],
+  "author": "",
+  "license": "MIT"
+}
